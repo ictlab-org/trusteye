@@ -44,8 +44,9 @@ _To provide security expertise and easy-to-use automated security services_
 	
 ### Portfolio
 **Our clients**: Universities, Automotive, Travel, Education and Fintech
+
 **Technology**: Linux, Windows, Google Cloud, Android, iOS, React Native, Java, PHP, Python, Go, Node Js etc.
 
 
 ### Support or Contact
-For more information please contact karfi@trusteyesecurity.com
+For more information please contact [karfi@trusteyesecurity.com](mailto:karfi@trusteyesecurity.com)
