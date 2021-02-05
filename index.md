@@ -1,4 +1,4 @@
-## Trust Eye Security - Penetration testing made simple.
+## We help developers building secure applications
 
 ### Our Vision
 _To be a trusted company that securing critical online services_
