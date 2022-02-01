@@ -1,4 +1,4 @@
-## Professional Penetration Testing and Incident Response Service Provider
+## Professional Penetration Testing and Incident Handling Service Provider
 
 ### Our Vision
 _To be a trusted company that securing critical online services_
@@ -45,7 +45,7 @@ _To provide security expertise and easy-to-use automated security services_
 
 	
 ### Portfolio
-**Our clients**: Universities, Automotive, Travel, Education, Fintech and Cloud Provider
+**Our clients**: Software House, Universities, Automotive, Travel, Education, Fintech and Cloud Provider
 
 **Technology**: Linux, Windows, Google Cloud, Android, iOS, React Native, Java, PHP, Python, Go, Node Js etc.
 
