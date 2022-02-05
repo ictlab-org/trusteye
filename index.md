@@ -24,7 +24,6 @@ _To provide security expertise and easy-to-use automated security services_
 •	Certified Information Security Auditor (CISA)
 
 **OFFENSIVE SECURITY CERTIFIED**
-•	Offensive Security Certified Professional (OSCP)
 •	Offensive Security Certified Expert (OSCE)
 
 **ISO CERTIFIED**
@@ -51,4 +50,4 @@ _To provide security expertise and easy-to-use automated security services_
 
 
 ### Support or Contact
-For more information please contact [karfi@trusteyesecurity.com](mailto:karfi@trusteyesecurity.com)
+For more information please contact [security@ictlab.org](mailto:security@ictlab.org)
