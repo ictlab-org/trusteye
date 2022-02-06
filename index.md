@@ -48,6 +48,9 @@ _To provide security expertise and easy-to-use automated security services_
 
 **Technology**: Linux, Windows, Google Cloud, Android, iOS, React Native, Java, PHP, Python, Go, Node Js etc.
 
+### Blog
+Visit our blog on [Zetta Security Blog](https://blog.zettasecurity.com)
 
 ### Support or Contact
 For more information please contact [security@ictlab.org](mailto:security@ictlab.org)
+
